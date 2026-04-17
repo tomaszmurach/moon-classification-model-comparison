@@ -76,12 +76,12 @@ The best-performing model was **SVM with RBF kernel**, which achieved an accurac
 ### Decision boundary of the best model (all data)
 
 <!-- Replace the path below after adding your screenshot to the repository -->
-![Decision boundary - all data](images/decision-boundary-all-data.png)
+![Decision boundary - all data](Images/decision-boundary-all-data.png)
 
 ### Decision boundary of the best model (test data)
 
 <!-- Replace the path below after adding your screenshot to the repository -->
-![Decision boundary - test data](images/decision-boundary-test-data.png)
+![Decision boundary - test data](Images/decision-boundary-test-data.png)
 
 ## Repository structure
 
@@ -89,7 +89,7 @@ The best-performing model was **SVM with RBF kernel**, which achieved an accurac
 moon-classification-model-comparison/
 ├── classifiers.py
 ├── README.md
-└── images/
+└── Images/
     ├── decision-boundary-all-data.png
     ├── decision-boundary-test-data.png
 ```
